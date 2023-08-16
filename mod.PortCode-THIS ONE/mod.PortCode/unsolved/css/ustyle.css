@@ -1,0 +1,329 @@
+
+
+.center{
+    font-size: 60px;
+    background-color: aqua;
+    position: sticky;
+}
+
+/*----------------------------about me page-------------------------*/
+.logo{
+    
+    background-image: url("../images/PortImg10.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 55vh;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+   
+}
+
+
+.nav{
+    display: flex;
+    background-color: grey;
+    padding: 20px;
+    box-align: center;
+}
+
+
+
+
+
+
+
+/* -----------------top section------------------ */
+
+.hero {
+   
+    height: 772px;
+    width: 579px;
+    background-image: url('../images/PortImg4.jpg');
+    background-size: cover;
+    background-position: left; 
+    background-color: grey;
+    text-align: center; 
+    
+}
+
+.herotext {
+    position: top ;
+    font-size: 30px;
+    background: grey;
+    width: 579px;
+    height: 360px;
+    float: right;
+    padding: 0 0 20px 20px;
+    
+}
+
+.Title1{
+    font-size: 50px;
+    background-color: aqua;
+}
+
+.Title2{
+    font-size: 50px;
+    background-color: aqua;
+}
+
+.Title3{
+    font-size: 50px;
+    background-color: aqua;
+}
+
+.Title4{
+    font-size: 50px;
+    background-color: aqua;
+}
+
+.CS1row1{
+    display: flex;
+    flex-direction: row;
+    background-color: pink; 
+}
+
+
+.flexcontainer{
+    display: flex;
+    flex-direction: row;
+    background-color: pink;
+    padding: 30px;
+    margin: 15px;
+}
+
+.flexcontainer2{
+    display: flex;
+    flex-direction: row;
+    background-color: blueviolet;
+}
+
+.Skills1{
+    display: flex;
+    flex-direction: row;
+    background-color: pink;
+}
+
+.Skills2{
+    display: flex;
+    flex-direction: row;
+    background-color: blueviolet;
+}
+
+.Skills3{
+    display: flex;
+    flex-direction: row;
+    background-color: blueviolet;
+}
+
+.gifrow1{
+    display: flex;
+    flex-direction: row;
+    background-color: blueviolet;
+}
+
+.work1a{
+    display: flex;
+    flex-direction: row;
+    background-color: blueviolet;
+}
+
+.work1b{
+    display: flex;
+    flex-direction: row;
+    background-color: pink;
+}
+
+.contactText{
+    display: flex;
+    flex-direction: center;
+    background-color: blueviolet
+}
+
+.cats{
+    margin-left: 20px;
+    height: 504px;
+    width: 378px;
+    background-size: cover;
+    background-image: url("../images/PortImg8.jpg");
+}
+
+.art{
+    margin-left: 20px;
+    height: 507px;
+    width: 340px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("../images/PortImg9.jpg");
+}
+
+
+
+
+.footer{
+    padding: 20px 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+.ig{
+    color: magenta;
+}
+
+.li{
+    color: blue;
+}
+
+
+
+/*-----------------------------------------my skills-----------------------------*/
+
+.IUiUx{
+    
+    height: 504px;
+    width: 504px;
+    background-size: cover;
+    background-image: url("../images/IUiUx.jpg");
+}
+
+.Icode{
+    
+    height: 504px;
+    width: 504px;
+    background-size: cover;
+    background-image: url("../images/ICode.jpg");
+}
+
+.IDesignThinking{
+    
+    height: 504px;
+    width: 504px;
+    background-size: cover;
+    background-image: url("../images/IDesignThinking.jpg");
+}
+
+.ITools{
+    
+    height: 504px;
+    width: 504px;
+    background-size: cover;
+    background-image: url("../images/ITools.jpg");
+}
+
+.IResearch{
+    
+    height: 504px;
+    width: 504px;
+    background-size: cover;
+    background-image: url("../images/IUserResearch.jpg");
+}
+
+.IUseTesting{
+    
+    height: 504px;
+    width: 504px;
+    background-size: cover;
+    background-image: url("../images/IUseTesting.jpg");
+}
+
+
+/*----------------------my work--------------------*/
+
+.casestudy1{
+    
+    height: 504px;
+    width: 504px;
+    background-size: cover;
+    background-image: url("../images/PortImg11.JPG");
+}
+
+.casestudy1text {
+   
+    font-size: 30px;
+    background: grey;
+    width: 579px;
+    height: 150px;
+    float: right;
+    padding: 0 0 20px 20px;
+    
+}
+
+
+
+.GIFcs1Donate {
+    border: 2px solid #333;
+    padding: 10px;
+    background-color: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    background-image: url("../images/GIFcs1Donate.gif");
+    background: no-repeat;
+}
+
+
+
+
+
+
+
+
+.GIFcs1OG {
+    border: 2px solid #333;
+    padding: 10px;
+    background-color: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+
+
+
+
+
+.WProgress{
+    
+    height: 504px;
+    width: 900px;
+    background-size: cover;
+    background-image: url("../images/WProgress.JPG");
+}
+
+.WGuide{
+    
+    height: 504px;
+    width: 700px;
+    background-size: cover;
+    background-image: url("../images/WGuide.JPG");
+}
+
+.Wrwd{
+    
+    height: 504px;
+    width: 700px;
+    background-size: cover;
+    background-image: url("../images/Wrwd.JPG");
+}
+
+.WAffinity{
+    
+    height: 504px;
+    width: 700px;
+    background-size: cover;
+    background-image: url("../images/WAffinity.JPG");
+}
+
+
+/*-----------------------------contact me----------------------*/
+
+.contacttext {
+   
+    font-size: 30px;
+    background: grey;
+    width: 579px;
+    height: 120px;
+    float: right;
+    padding: 0 0 20px 20px;
+    
+}
